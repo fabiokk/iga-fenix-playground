@@ -1,0 +1,11 @@
+database: "h2"
+archetypeVersion: "2.1.9"
+sigla: "t99"
+package: "br.com.bb.t99"
+provimentoIIB: "br.com.bb.t99.operacao:Op5207120-v1:2.2.0-SNAPSHOT:CadastrarCliente"
+consumoIIB: "br.com.bb.arh.operacao:Op252416-v1:2.0.0:ConsultarDadosBasicosFuncionarioBB"
+groupId: "br.com.bb.t99"
+artifactId: "t99-romeu-e-julieta"
+version: "0.1.0-SNAPSHOT"
+treinamento: "true"
+createAt: 2023-03-28T15:23:50.325461
